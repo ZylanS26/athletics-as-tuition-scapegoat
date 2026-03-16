@@ -32,13 +32,13 @@ The analysis suggests that athletics are often treated as a scapegoat for rising
 ## Visualizations
 
 ### Athletics Revenue vs Expenses
-![Athletics Trend](figures/athletics_trend.png)
+![Athletics Trend](athletics_revenue_expense_trend.png.png)
 
 ### Athletics Share of University Spending
-![Athletics Share](figures/athletics_share.png)
+![Athletics Share](Atheletic_Share_trend_graph.png)
 
 ### Athletics Spending per Student
-![Athletics per Student](figures/athletics_per_student.png)
+![Athletics per Student](Athletic_expense_per_student.png)
 ## Author
 
 Zhenlin Shou

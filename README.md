@@ -18,6 +18,7 @@ This project examines a common claim that college athletics are a major driver o
 - Visualization files used to generate charts
 - Raw data sources
 
+# Main text
 
 Athletics are frequently portrayed as a major source of rising tuition at American universities. However, evidence from the University of Rochester suggests that athletics represent only a very small fraction of overall spending and therefore cannot be a primary driver of tuition increases. Instead, athletics may function as a visible scapegoat that distracts from deeper structural issues within university governance. In particular, the expansion of administrative units and the institutional incentives facing universities can create a classic principal–agent problem, in which the priorities of university administrators diverge from the interests of students who ultimately bear the financial burden.
 

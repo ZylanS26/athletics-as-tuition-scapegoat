@@ -46,6 +46,10 @@ As shown in Figure 2 and Figure 3, athletics account for only a very small share
 
 ### Athletics Spending per Student (Figure 4)
 ![Athletics per Student](Athletic_expense_per_student.png)
+
+### Athletics Spending per Student (Figure 5)
+![Athletics per Student](Tuition_growth_trend.png)
+
 As shown in Figure 4, when athletics spending is distributed across the student body, the cost amounts to roughly $1,300 to no more than about $1,900 per student per year. While this is not a trivial amount, it represents only a very small portion of total tuition. Eliminating athletics would therefore provide only a modest reduction in tuition. Moreover, athletics may provide benefits that extend beyond direct financial considerations. In many universities, athletic programs contribute to institutional visibility, student engagement, and alumni identity. For some students, the opportunity to participate in varsity athletics is also an important factor in their decision to enroll.
 
 An additional consideration is the long-term trend in tuition growth. Over the past several decades, tuition at the University of Rochester has increased at an average rate of roughly 1.7 percents per year. Even if eliminating athletics were to reduce tuition by less than 1 percent which is around $1,900 in a given year, that reduction would likely be offset within a short period by the ongoing upward trend in tuition shown in figure 5. In other words, removing athletics would not fundamentally alter the trajectory of rising tuition while potentially eliminating programs that many students value.

@@ -37,10 +37,10 @@ At first glance to figure 1, the trend in athletics spending appears to support 
 
 However, it is important to consider the scale of the university. In the most recent year, the University of Rochester enrolled approximately 11,946 students. Even when focusing only on undergraduate students, there are more than 6,500 students enrolled. Given the large size of the student body and the level of tuition charged by the university, the total amount spent on athletics may appear less significant when distributed across students. Nevertheless, this simple calculation alone is not sufficient to draw firm conclusions. A more informative approach is to examine athletics spending relative to the university’s overall budget. Figure 2 therefore presents the share of university spending devoted to athletics.
 
-### Athletics Share of University Spending (Figure 2)
+### Athletics Share of University Spending 2023 (Figure 2)
 ![Athletics Share](Spending_share_barchart_contrast.png)
 
-### Athletics Share of University Spending (Figure 3)
+### Athletics Share of University Spending Overtime (Figure 3)
 ![Athletics Share](Athletics_share_trend_graph.png)
 
 As shown in Figure 2 and Figure 3, athletics account for only a very small share of the University of Rochester’s total spending, consistently remaining between roughly 0.7% and 1%. It is important to note that this measure refers to university spending excluding hospital expenditures. Since the University of Rochester operates a large medical system with its own revenue streams, removing hospital spending provides a clearer picture of the university budget that is more closely tied to tuition and student-related funding. Even under this more restrictive measure, athletics still account for less than 1% of total university spending. Therefore, the effect of athletics on tuition is extremely limited. Eliminating athletics entirely would likely reduce tuition by only a very small amount—roughly around one percent—while significantly altering the campus experience that many students value.
@@ -50,7 +50,7 @@ As shown in Figure 2 and Figure 3, athletics account for only a very small share
 ### Athletics Spending per Student (Figure 4)
 ![Athletics per Student](Athletic_spending_per_student_correct.png)
 
-### Athletics Spending per Student (Figure 5)
+### Tuition trend (Figure 5)
 ![Tuition_growth_trend](Tuition_growth_trend.png)
 
 As shown in Figure 4, when athletics spending is distributed across the student body, the cost amounts to roughly $1,300 to no more than about $1,900 per student per year. While this is not a trivial amount, it represents only a very small portion of total tuition. Eliminating athletics would therefore provide only a modest reduction in tuition. Moreover, athletics may provide benefits that extend beyond direct financial considerations. In many universities, athletic programs contribute to institutional visibility, student engagement, and alumni identity. For some students, the opportunity to participate in varsity athletics is also an important factor in their decision to enroll.

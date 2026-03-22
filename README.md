@@ -51,7 +51,7 @@ As shown in Figure 2 and Figure 3, athletics account for only a very small share
 ![Athletics per Student](Athletic_spending_per_student_correct.png)
 
 ### Athletics Spending per Student (Figure 5)
-![Athletics per Student](Tuition_growth_trend.png)
+![Tuition_growth_trend](Tuition_growth_trend.png)
 
 As shown in Figure 4, when athletics spending is distributed across the student body, the cost amounts to roughly $1,300 to no more than about $1,900 per student per year. While this is not a trivial amount, it represents only a very small portion of total tuition. Eliminating athletics would therefore provide only a modest reduction in tuition. Moreover, athletics may provide benefits that extend beyond direct financial considerations. In many universities, athletic programs contribute to institutional visibility, student engagement, and alumni identity. For some students, the opportunity to participate in varsity athletics is also an important factor in their decision to enroll.
 

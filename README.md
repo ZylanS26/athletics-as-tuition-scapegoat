@@ -1,5 +1,5 @@
-#“Prepared by Zhenlin Shou, Econ 224w,
-Spring 2026, University of Rochester.”
+# Prepared by Zhenlin Shou, Econ 224w,
+Spring 2026, University of Rochester.
 
 # Are College Sports Driving Tuition?
 
